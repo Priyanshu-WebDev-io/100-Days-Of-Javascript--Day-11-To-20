@@ -20,7 +20,7 @@ This repository is a comprehensive collection of **100 unique JavaScript mini-pr
 |-----|------------------------------|-----------|
 | 11  | JavaScript Password Generator  | [Live](https://011-javascript-password-generator.vercel.app/) | 
 | 12  | JavaScript Aspect Ratio Calculator  | [Live](https://javascript-aspect-ratio-calculator.vercel.app/) | 
-| Day 01 To 10 | Repo ↗️                         | [Visit](https://github.com/Priyanshu-WebDev-io/100-Days-Of-Javascript--Day-11-To-20/)       |
+| Day 01 To 10 | Repo ↗️                         | [Visit](https://github.com/Priyanshu-WebDev-io/100-Days-Of-Javascript--Day-01-To-10/)       |
 | Day ... | ...                        | [Visit](#)       |
 | Day 91 To 100 | Coming Soon                         | [Visit](#)       |
 
