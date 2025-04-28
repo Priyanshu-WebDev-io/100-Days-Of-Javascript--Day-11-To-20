@@ -22,6 +22,10 @@ This repository is a comprehensive collection of **100 unique JavaScript mini-pr
 | 12  | JavaScript Aspect Ratio Calculator  | [Live](https://javascript-aspect-ratio-calculator.vercel.app/) | 
 | 13  | JavaScript Weather App  | [Live](https://013-javascript-weather-app.vercel.app/) | 
 | 14  | JavaScript Tradingveiw API  | [Live](https://014-javascript-tradingview-api.vercel.app/) | 
+| 15  | JavaScript Internet Speed Test  | [Live](https://015-javascript-internet-speed-test.vercel.app/) | 
+| 16  | JavaScript Box Shadow Generator  | [Live](https://016-javascript-box-shadow-generator.vercel.app/) | 
+| 17  | Light Dark Mode  | [Live](https://017-light-dark-mode.vercel.app/) | 
+| 18  | Javascipt Chart| [Live](https://018-javascript-chart.vercel.app/) | 
 | Day 01 To 10 | Repo ↗️                         | [Visit](https://github.com/Priyanshu-WebDev-io/100-Days-Of-Javascript--Day-1-To-10/)       |
 | Day ... | ...                        | [Visit](#)       |
 | Day 91 To 100 | Coming Soon                         | [Visit](#)       |
